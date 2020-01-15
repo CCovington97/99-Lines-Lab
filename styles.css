@@ -1,0 +1,11 @@
+body {
+background-color: slategray;
+}
+
+.friend {
+    background-color: skyblue;
+}
+
+friend.h3 {
+    font-variant-caps: titling-caps;
+}
