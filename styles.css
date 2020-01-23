@@ -7,5 +7,5 @@ background-color: slategray;
 }
 
 h3 {
-    font-variant: small-caps;
+    text-transform: uppercase;
 }
